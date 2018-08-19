@@ -1,3 +1,6 @@
 [submodule "pack/bundle/start/vim-javascript"]
 	path = pack/bundle/start/vim-javascript
 	url = https://github.com/pangloss/vim-javascript
+[submodule "pack/bundle/start/vim-javacomplete2"]
+	path = pack/bundle/start/vim-javacomplete2
+	url = https://github.com/artur-shaik/vim-javacomplete2
