@@ -6,3 +6,5 @@ set ai
 map <F8> :w <CR> :!gcc % -o %< && ./%< <CR>
 
 map <F7> :w <CR> :!npm start <CR> 
+set undofile
+set undodir=~/.vim/undodir
